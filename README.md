@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ezunigaf-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ezunigaf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ezunigaf.github.io-black?style=flat&logo=github)](https://ezunigaf.github.io)
-[![Projects](https://img.shields.io/badge/Visual%20Portfolio-Adobe%20Acrobat-EC1C24?style=flat&logo=adobe)](https://acrobat.adobe.com)
+[![Projects](https://img.shields.io/badge/Visual%20Portfolio-Adobe%20Acrobat-EC1C24?style=flat&logo=adobe)](https://acrobat.adobe.com/id/urn:aaid:sc:US:ae213f09-1e22-472d-a1a3-1ee2db3e4c05)
 
 </div>
 
@@ -37,9 +37,9 @@ I specialize in taking a product from concept to production: architecture, busin
 
 <div align="center">
 
-![Esteban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EZunigaF&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Esteban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezunigaf&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EZunigaF&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezunigaf&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -51,7 +51,7 @@ I specialize in taking a product from concept to production: architecture, busin
 |---|---|
 | LinkedIn | [linkedin.com/in/ezunigaf](https://linkedin.com/in/ezunigaf) |
 | Portfolio | [ezunigaf.github.io](https://ezunigaf.github.io) |
-| Visual Portfolio | [Adobe Acrobat](https://acrobat.adobe.com) |
+| Visual Portfolio | [Adobe Acrobat](https://acrobat.adobe.com/id/urn:aaid:sc:US:ae213f09-1e22-472d-a1a3-1ee2db3e4c05) |
 | GitHub | [github.com/EZunigaF](https://github.com/EZunigaF) |
 
 ---
